@@ -148,7 +148,7 @@ Cada laboratorio incluye documentación completa en `DOCUMENTACION_LAB_JAVASCRIP
 
 **Estudiante:** Luis Pradp  
 **Curso:** JavaScript I - CodeCrypto Academy  
-**Fecha:** $(Get-Date -Format "04/10/2025")
+**Fecha:** $("04/10/2025")
 
 ## 📄 Licencia
 
